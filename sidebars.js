@@ -98,6 +98,7 @@ module.exports = {
       "developer/products",
       "developer/attributes",
       "developer/checkout",
+      "developer/gift-cards",
       "developer/address",
       "developer/users",
       "developer/permissions",
